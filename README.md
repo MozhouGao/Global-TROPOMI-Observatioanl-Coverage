@@ -1,4 +1,4 @@
-# Global-TROPOMI-Observatioanl-Coverage
+# Global TROPOMI Observatioanl Coverage
 
 ### Overview 
 This documnetiation is designed to be a technical document with relation to the example of calculating TROPOMI Observational Coverage (TOC) and TOC-reducing days 
